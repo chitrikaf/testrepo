@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-this is new 2
-=======
 this is new 2
 new333q122
 
 newwww4
->>>>>>> branchB
